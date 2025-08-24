@@ -43,7 +43,7 @@ This repository contains implementations of fundamental machine learning concept
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/khanak0509/IML-lab.git
 ```
 
 2. Install required packages:
